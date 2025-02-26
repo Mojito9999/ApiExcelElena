@@ -72,8 +72,8 @@ namespace ApiExcel.Controllers
                             // Los guardamos con el package de abajo del for pero aqi guardamos si o no
                             //dependiendo de si son más de 7500 con el filtro de arriba como en la api
                             worksheet.Cells[row, 7].Value = empleado.CobranMas7500;
-                          
-
+                         
+                            /////////////prueba
                         }
                         else
                         {
